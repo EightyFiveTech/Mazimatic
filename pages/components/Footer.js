@@ -64,9 +64,9 @@ const Footer = () => {
                      <p>Copyright   |   MaziMatic 2022</p>
                  </div>
                  <div className="col-md-6 col-sm-6 text-right">
-                     <a>Privacy Policy |</a>
-                     <a>Terms & Conditions |</a>
-                     <a>Disclaimer </a>
+                     <a href="/privacy-policy">Privacy Policy |</a>
+                     <a href="/terms-and-conditions">Terms & Conditions |</a>
+                     <a href="/disclaimer">Disclaimer </a>
                  </div>
              </div>
             </div>

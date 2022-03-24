@@ -4,6 +4,9 @@ COLOR : #74c209;
 
 --------------*/
 
+.mobile-links{
+	display: none;
+}
 
 .swal2-container {
   z-index: 10000 !important;
@@ -2105,3 +2108,78 @@ color: #FFFFFF;
   .reddit:hover {
 	background: #ff6314;
   }
+
+
+
+
+  #Privacy{
+	  padding: 2vw 10vw 4vw 10vw;
+  }
+
+  #Privacy h1,h2,p,li{
+	  color: #FFFFFF;
+  }
+
+  #Privacy h1{
+	  margin-bottom: 3vw;
+	  font-size: 2vw;
+  }
+
+  #Privacy h2{
+	margin-bottom: 2vw;
+	margin-top: 4vw;
+	font-size: 1.5vw;
+}
+
+#Privacy p,li{
+	font-size: 1vw;
+}
+
+
+#Terms{
+	padding: 2vw 10vw 4vw 10vw;
+}
+
+#Terms h2,h3,p,li{
+	color: #FFFFFF;
+}
+
+#Terms h2{
+	margin-bottom: 3vw;
+	font-size: 2vw;
+}
+
+#Terms h3{
+  margin-bottom: 2vw;
+  margin-top: 4vw;
+  font-size: 1.5vw;
+}
+
+#Terms p,li{
+  font-size: 1vw;
+}
+
+
+
+#Disclaimer{
+	padding: 2vw 10vw 4vw 10vw;
+}
+
+#Disclaimer h1,h2,p,li{
+	color: #FFFFFF;
+}
+
+#Disclaimer h1{
+	margin-bottom: 3vw;
+	font-size: 2vw;
+}
+
+#Disclaimer h2{
+  margin-bottom: 2vw;
+  margin-top: 4vw;
+  font-size: 1.5vw;
+}
+
+#Disclaimer p,li{
+  font-size: 1vw;
+}

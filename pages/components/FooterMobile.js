@@ -17,11 +17,11 @@ const FooterMobile = () => {
          
          <div className="row link-row">
          <div className="col-md-12">
-                <a href="#our-vision"><p>Our Vision</p></a>
-                <a href="#mazi-verse"><p>MetaVerse</p></a>
-                <a href="#Nftkart"><p>NFTKart</p></a>
-                <a href="#Roadmap"><p>RoadMap</p></a>
-                <a href="#Features"><p>Features</p></a>
+                <a href="#OurVisionMobile"><p>Our Vision</p></a>
+                <a href="#MaziVerseMobile"><p>MetaVerse</p></a>
+                <a href="#NftkartMobile"><p>NFTKart</p></a>
+                <a href="#RoadmapMobile"><p>RoadMap</p></a>
+                <a href="#FeaturesMobile"><p>Features</p></a>
             </div>
          </div>
 
@@ -36,9 +36,9 @@ const FooterMobile = () => {
         <div className="col-md-12 bottom-div text-center">
             <p className="mt-5">Copyright   |   MaziMatic 2022</p>
 
-            <a>Privacy Policy |</a>
-            <a>Terms & Conditions |</a>
-            <a>Disclaimer </a>
+            <a href="/privacy-policy">Privacy Policy |</a>
+            <a href="/terms-and-conditions">Terms & Conditions |</a>
+            <a href="/disclaimer">Disclaimer </a>
         </div>
     </div>
 

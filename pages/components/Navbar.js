@@ -11,7 +11,7 @@ const Navbar = () => {
     <span className="navbar-toggler-icon"></span>
   </button>
   <div className="collapse navbar-collapse" id="navbarNav">
-    <ul className="navbar-nav ml-auto">
+    <ul className="navbar-nav ml-auto desktop-links">
       <li className="nav-item">
         <a className="nav-link" href="#our-vision">Our Vision</a>
       </li>
@@ -29,6 +29,26 @@ const Navbar = () => {
       </li>
       <li className="nav-item">
         <a className="nav-link" href="#Comingsoon">More</a>
+      </li>
+    </ul>
+    <ul className="navbar-nav ml-auto mobile-links">
+      <li className="nav-item">
+        <a className="nav-link" href="#OurVisionMobile">Our Vision</a>
+      </li>
+      <li className="nav-item">
+        <a className="nav-link" href="#MaziVerseMobile">MaziVerse</a>
+      </li>
+      <li className="nav-item">
+        <a className="nav-link" href="#NftkartMobile">NFTkart</a>
+      </li>
+      <li className="nav-item">
+        <a className="nav-link" href="#RoadmapMobile">Roadmap</a>
+      </li>
+      <li className="nav-item">
+        <a className="nav-link" href="#FeaturesMobile">Features</a>
+      </li>
+      <li className="nav-item">
+        <a className="nav-link" href="#ComingsoonMobile">More</a>
       </li>
     </ul>
   </div>
